@@ -1,14 +1,14 @@
 # 🌿 thea
- a tool that dumps:
-- phone numbers
-- emails
-- exact addresses
-- payment information
-- a little more
-from a discord account. ain't that cool?  
+ A tool that dumps:
+- Phone numbers
+- Emails
+- Exact addresses
+- Payment information
+- A little more
+from a discord account. Isn't that cool?  
   
-# 💾 installation
-literally just install colored (`pip install colored`) and run the script, or if you're really lazy just run the compiled version that i've so kindly put in releases.  
+# 💾 Installation
+Literally just install colored (`pip install colored`) and run the script, or if you're really lazy just run the compiled version that I've so kindly put in releases.  
   
 # ⚠️ disclaimer
-use wisely. i'm not responsible for any of actions made using this tool, i just made it as a proof-of-concept.
+Use wisely. I'm not responsible for any of actions made using this tool, I just made it as a proof-of-concept.
